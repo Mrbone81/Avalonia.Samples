@@ -534,7 +534,8 @@ You can also use any third-party library which supports advanced routing, for ex
 
 ReactiveUI::
 - https://www.reactiveui.net/docs/handbook/routing/
-- https://docs.avaloniaui.net/guides/deep-dives/reactiveui/routing
+- https://docs.avaloniaui.net/docs/next/concepts/reactiveui/routing
+
 
 Prism::
 - https://prismlibrary.com/docs/viewmodel-locator.html
